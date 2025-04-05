@@ -3,6 +3,9 @@
 A simple Pong game built using **Raylib**.
 
 ## Screenshots
+### Start Menu
+![image](https://github.com/user-attachments/assets/2feafb61-8ae0-4fbb-9254-5829783d1cae)
+
 
 ### In-Game
 ![image](https://github.com/user-attachments/assets/3ce9a7bc-29f7-4a59-bfc5-e828e72954bb)
